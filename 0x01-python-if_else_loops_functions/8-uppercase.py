@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 def uppercase(str):
     for iterator in str:
         temp = iterator
